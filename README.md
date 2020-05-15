@@ -1,4 +1,4 @@
-# Demo Ecommerce User service
+# Demo Ecommerce Cart service
 
 This demo cart microservice is for a demo ecommerce app. It takes care of cart related functions. Adding to cart, getting items in the cart etc
 
