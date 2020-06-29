@@ -12,4 +12,4 @@ Run `npm test` to execute tests via [Mocha](https://mochajs.org).
 
 
 ## Doc link
-https://bit.ly/EcommerceApiDocs
+Here's the Postman doc link https://bit.ly/EcommerceApiDocs
